@@ -1,17 +1,17 @@
-Привет! Я Python и Backend разработчик 👋
+Hello! I'm a Python and Backend Developer 👋
 
-Привет! Меня зовут [Ваше Имя], и я разработчик с опытом работы как с Python, так и с Backend технологиями. Мой стек технологий включает в себя:
+Hello! My name is Kanat, and I'm a developer experienced with both Python and Backend technologies. My tech stack includes:
 
-    Языки программирования: Python, Bash
-    Контейнеризация и оркестрация: Docker, Kubernetes (k8s)
-    Географическая информационная система (ГИС): GeoGIS, GIS
-    Искусственный интеллект (AI): Имею опыт работы с YOLO (You Only Look Once) для компьютерного зрения
-    Графический интерфейс пользователя (GUI): Опыт разработки GUI-приложений
-    Сообщения между устройствами (MQTT): Опыт работы с MQTT протоколом
-    Apache Kafka: Опыт работы с распределенной системой Apache Kafka
+    Programming Languages: Python, Bash
+    Containerization and Orchestration: Docker, Kubernetes (k8s)
+    Geographic Information Systems (GIS): GeoGIS, GIS
+    Artificial Intelligence (AI): Experienced with YOLO (You Only Look Once) for computer vision
+    Graphical User Interface (GUI): Proficient in developing GUI applications
+    Device-to-Device Messaging (MQTT): Worked with MQTT protocol
+    Apache Kafka: Experience with Apache Kafka distributed system
 
-🌱 В настоящее время я работаю над углублением своих знаний в области разработки и использования технологий связанных с AI и ГИС.
+🌱 Currently, I'm focusing on deepening my knowledge in the development and usage of technologies related to AI and GIS.
 
-📫 Меня можно найти на LinkedIn: [...](https://www.linkedin.com/in/usmanov-kanat-python-developer/)
+📫 You can find me on LinkedIn: https://www.linkedin.com/in/usmanov-kanat-python-developer/
 
-Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы, предложения или просто хотите поболтать о технологиях и разработке программного обеспечения!
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat about technologies and software development!
