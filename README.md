@@ -1,6 +1,6 @@
 Hello! I'm a Python and Backend Developer 👋
 
-Hello! My name is Kanat, and I'm a developer experienced with both Python and Backend technologies. My tech stack includes:
+My name is Kanat, and I'm a developer experienced with both Python and Backend technologies. My tech stack includes:
 
     Programming Languages: Python, Bash
     Containerization and Orchestration: Docker, Kubernetes (k8s)
